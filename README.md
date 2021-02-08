@@ -62,7 +62,7 @@ A few technologies / libraries used for the static site, must be used:
 
 When you feel you are done, send us by email:
 
-- A link to a **private GitHub repository** with an invite access for [https://github.com/VincentGarreau](@VincentGarreau) & @ThibautDavoult
+- A link to a **private GitHub repository** with an invite access for [@VincentGarreau](https://github.com/VincentGarreau) & [@ThibautDavoult](https://github.com/ThibautDavoult)
 - An **online demo** of the website (on the free version of Netlify)
 
 # Tips
