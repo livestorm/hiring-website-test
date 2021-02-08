@@ -1,3 +1,6 @@
+![livestorm logo](https://github.com/livestorm/hiring-website-test/blob/main/68747470733a2f2f73766773686172652e636f6d2f692f516f302e737667.svg?raw=true)
+
+
 # Livestorm Lead Developer (Website) Test
 
 
