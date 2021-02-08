@@ -1,4 +1,6 @@
-![livestorm logo](https://github.com/livestorm/hiring-website-test/blob/main/68747470733a2f2f73766773686172652e636f6d2f692f516f302e737667.svg?raw=true)
+<p align="center">  
+    <img width="400" height="140" src="https://svgshare.com/i/Qo0.svg">
+</p>
 
 
 # Livestorm Lead Developer (Website) Test
