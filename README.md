@@ -1,5 +1,6 @@
 # Livestorm Lead Developer (Website) Test
 
+
 Be sure to read all of the instructions carefully and follow the guidelines below. This test should take you between 4 and 8 hours depending on your experience.
 
 As a Lead Front-End Developer for the website, you'll be tasked with every aspect of the website's infrastructure: from improving its performance (deploy times, Google lighthouse score...) to integrating new components and pages while being pixel perfect, adding animations, and overall choosing the best libraries, plugins and solutions for each project we'll have.
@@ -8,7 +9,6 @@ This test will give a framework for evaluating your skills in those areas.
 
 # Context
 
----
 
 You are tasked with setting up a simple static site using the same stack as Livestorm (defined below).
 
@@ -25,7 +25,6 @@ Page: `testurl.netlify.app/use-cases/page-slug/`
 
 # Design
 
----
 
 All screens are available in the [Figma source file](https://www.figma.com/file/O6eFbbxDL3OJaGpqAAjgq2/Website---Iterations-NEW-(Copy)?node-id=3%3A2).
 
@@ -37,7 +36,6 @@ Important: If you haven't already, sign up for a free Figma account and sign in,
 
 # Tech requirements
 
----
 
 A few technologies / libraries used for the static site, must be used:
 
@@ -50,7 +48,6 @@ A few technologies / libraries used for the static site, must be used:
 
 # What you need to do
 
----
 
 - Create the Nuxt CLI project from scratch, enabling full static mode
 - Write the logic for the pages' build and deploy as a static site to Netlify
@@ -62,7 +59,6 @@ A few technologies / libraries used for the static site, must be used:
 
 # How to send your site's code
 
----
 
 When you feel you are done, send us by email:
 
@@ -71,7 +67,6 @@ When you feel you are done, send us by email:
 
 # Tips
 
----
 
 - Being as close as possible to the Figma screens is very important
 - The site must be responsive! It should look good and work on both mobile and desktop screens!
