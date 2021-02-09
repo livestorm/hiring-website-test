@@ -69,6 +69,7 @@ When you feel you are done, send us by email:
 
 - A link to a **private GitHub repository** with an invite access for [@VincentGarreau](https://github.com/VincentGarreau) & [@ThibautDavoult](https://github.com/ThibautDavoult)
 - An **online demo** of the website (on the free version of Netlify)
+- Share **the access to the DatoCMS project** (with an easily shareable, temporary passord)
 
 # Tips
 
